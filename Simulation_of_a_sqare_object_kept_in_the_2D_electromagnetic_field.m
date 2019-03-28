@@ -1,4 +1,5 @@
-%2d EM wave with absorbing boundary using pml
+%Matlab
+%2d EM wave with absorbing boundary using pml and a square body kept in  the field
 c0 = 3e8; 
 epsilon=8.85e-12;
 miu=1.257e-6;
